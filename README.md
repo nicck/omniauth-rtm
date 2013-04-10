@@ -1,6 +1,6 @@
 # Omniauth RTM Strategy
 
-This gem provides a simple way to authenticate to [remember the milk](http://rememberthemilk.com) using OmniAuth.
+This gem provides a simple way to authenticate to [remember the milk](http://rememberthemilk.com) using [OmniAuth](http://github.com/intridea/omniauth/wiki).
 
 ## Usage
 
